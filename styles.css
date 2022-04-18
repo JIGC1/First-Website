@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 100;
+
+}
+
+h1 a {
+    color: purple;
+    font-size: 13px;
+    font-weight: 100;
+}
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#rancho-viejo {
+    border-radius: 30px;
+    border-width: 30px;
+}
+
+body {
+    color: white;
+    background-image: url("Eternal_Royal.jpeg");
+    background-color: #cccccc;
+   }
+
+div {
+
+    font: white;
+}
