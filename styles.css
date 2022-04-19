@@ -34,3 +34,21 @@ div {
 
     font: white;
 }
+
+div {
+    align-items: center;
+  }
+
+  ul{
+      display: inline-block; text-align: center;
+  }
+
+  ol{
+    display: inline-block; text-align: center;
+}
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
